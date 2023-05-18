@@ -1,2 +1,3 @@
-# to-do-list
-To-do list using react native
+# To-do List
+
+A to-do app built for Android devices using React Native
